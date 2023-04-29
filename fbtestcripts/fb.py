@@ -1,5 +1,5 @@
 from selenium import webdriver
-driver = webdriver.Chrome("C:/Atish Documents/chromedriver_win32/chromedriver.exe")
+driver = webdriver.Chrome("C:/Atish Documents/Softwares/chromedriver_win32/chromedriver.exe")
 
 driver.get("http://www.facebook.com")
 driver.maximize_window()
